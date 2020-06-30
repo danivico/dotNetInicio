@@ -1,0 +1,11 @@
+C:\PrimeirosPassosDotNet\bin\Debug\netcoreapp3.1\PrimeirosPassosDotNet.exe
+C:\PrimeirosPassosDotNet\bin\Debug\netcoreapp3.1\PrimeirosPassosDotNet.deps.json
+C:\PrimeirosPassosDotNet\bin\Debug\netcoreapp3.1\PrimeirosPassosDotNet.runtimeconfig.json
+C:\PrimeirosPassosDotNet\bin\Debug\netcoreapp3.1\PrimeirosPassosDotNet.runtimeconfig.dev.json
+C:\PrimeirosPassosDotNet\bin\Debug\netcoreapp3.1\PrimeirosPassosDotNet.dll
+C:\PrimeirosPassosDotNet\bin\Debug\netcoreapp3.1\PrimeirosPassosDotNet.pdb
+C:\PrimeirosPassosDotNet\obj\Debug\netcoreapp3.1\PrimeirosPassosDotNet.csprojAssemblyReference.cache
+C:\PrimeirosPassosDotNet\obj\Debug\netcoreapp3.1\PrimeirosPassosDotNet.csproj.CoreCompileInputs.cache
+C:\PrimeirosPassosDotNet\obj\Debug\netcoreapp3.1\PrimeirosPassosDotNet.dll
+C:\PrimeirosPassosDotNet\obj\Debug\netcoreapp3.1\PrimeirosPassosDotNet.pdb
+C:\PrimeirosPassosDotNet\obj\Debug\netcoreapp3.1\PrimeirosPassosDotNet.genruntimeconfig.cache
